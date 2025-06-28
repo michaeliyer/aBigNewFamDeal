@@ -1327,7 +1327,7 @@ export const myPeople = [
     birthDay: null,
     birthYear: null,
     passedAway: 2010,
-    comment: "Dog - Passed away in 2010",
+    comment: "Max was one hell of an animal. He will be missed",
     groups: ["Otis, etc...", "All", "Deceased"],
   },
   {
